@@ -1,7 +1,7 @@
 # kurd_tree
 
 A new Flutter project.
-
+Kurd_tree is a mobile app that allows users to link their social media accounts and other online services to a single, secure identity. This makes it easier for users to manage their online presence and to keep their personal information safe.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
